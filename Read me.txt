@@ -1,0 +1,22 @@
+﻿_________________
+Font chữ hỗ trợ : Segoe UI và Roboto
+---- Hướng dẫn cài đặt Font: 
+
+1. Quét chọn tất cả file trong thư mục FONT
+2. Chuột phải và chọn Install
+3. Đợi đến khi hoàn thành. Xong
+
+_________________
+Nếu bạn sử dụng laptop có màn hình ngang thì sử dụng file 
+>>>>>> KD Study 2 - 1366 x 768 - LAPTOP.xlsm
+
+Nếu bạn sử dụng máy tính bàn có màn hình vuông thì sử dụng file
+>>>>>> KD Study 2 - 1280 x 1024.xlsm
+
+_________________________________________________
+Kelvin Duong's Blog - https://kelvin-duong.blogspot.com
+
+==== KD STUDY 2 ====
+Công cụ tính điểm tích lũy theo tín chỉ và hoạch định mục tiêu GPA
+
+**** VUI LÒNG ĐỌC HƯỚNG DẪN TRƯỚC KHI SỬ DỤNG ****
